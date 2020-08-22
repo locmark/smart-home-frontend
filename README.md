@@ -1,1 +1,1 @@
-# smart-home-forntend
+# smart-home-frontend
